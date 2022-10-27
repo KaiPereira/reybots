@@ -11,11 +11,11 @@ export default function HomeComponent() {
                     <button className="homeAboutButton">About</button>        
                 </a>
                 <div className="homeImageGrid">
-                    <img src="1.png" />
-                    <img src="2.png" />
-                    <img src="3.png" />
-                    <img src="5.png" />
-                    <img src="4.png" />
+                    <img src="https://kaipereira.github.io/reybots/1.png" />
+                    <img src="https://kaipereira.github.io/reybots/2.png" />
+                    <img src="https://kaipereira.github.io/reybots/3.png" />
+                    <img src="https://kaipereira.github.io/reybots/5.png" />
+                    <img src="https://kaipereira.github.io/reybots/4.png" />
                 </div>
             </section>
             <section className="competitionsMain" id="competitions">
@@ -25,7 +25,7 @@ export default function HomeComponent() {
                 </div>
                 <div className="allCompetitions">
                     <div className="compeitionElement">
-                        <img src="compeition1.jpg" className="compeitionElementImage" />
+                        <img src="https://kaipereira.github.io/reybots/compeition1.jpg" className="compeitionElementImage" />
                         <div className="competitionElementTextAlign">
                             <div>
                                 <h2>Canadian Pacific Regional</h2>
@@ -37,7 +37,7 @@ export default function HomeComponent() {
                         </div>
                     </div>
                     <div className="compeitionElement compeitionElement2">
-                        <img src="compeition2.jpg" className="compeitionElementImage" />
+                        <img src="https://kaipereira.github.io/reybots/compeition2.jpg" className="compeitionElementImage" />
                         <div className="competitionElementTextAlign">
                             <div>
                                 <h2>Championship</h2>
@@ -57,10 +57,10 @@ export default function HomeComponent() {
                 </div>
                 <div className="sponsorsSection">
                     <div className="sponsorContainer">
-                        <img src="bernhardt.png" />
+                        <img src="https://kaipereira.github.io/reybots/bernhardt.png" />
                     </div>
                     <div className="sponsorContainer">
-                        <img src="finning.jpg" />
+                        <img src="https://kaipereira.github.io/reybots/finning.jpg" />
                     </div>
                     <div className="sponsorContainer">
                         <p>Could Be You Here...</p>
@@ -98,13 +98,13 @@ export default function HomeComponent() {
                             <div className="pricingComponentBenefits">
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>Your company acknoledged on the sponsors page of our team website!</p>
                                 </div>
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>Certificate of appreciation that can be displayed at your business!</p>
                                 </div>
@@ -126,19 +126,19 @@ export default function HomeComponent() {
                             <div className="pricingComponentBenefits">
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>We will include contact information, a logo and an active link to your site on our sponsors page!</p>
                                 </div>
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>Certificate of appreciation that can be displayed at your business!</p>
                                 </div>
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>Photo with the Reybots team!</p>
                                 </div>
@@ -160,19 +160,19 @@ export default function HomeComponent() {
                             <div className="pricingComponentBenefits">
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>We will include contact information, a logo and an active link to your site on our sponsors page!</p>
                                 </div>
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>Appreciation plaque that can be displayed at your business!</p>
                                 </div>
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>Photo with the Reybots team!</p>
                                 </div>
@@ -194,31 +194,31 @@ export default function HomeComponent() {
                             <div className="pricingComponentBenefits">
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>Place on the homepage for your company logo and active link!</p>
                                 </div>
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>Inclusion in any social media posts as a logo!</p>
                                 </div>
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>Appreciation plaque that can be displayed at your business!</p>
                                 </div>
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>Team robot demonstration at place of business</p>
                                 </div>
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>Photo with the Reybots team!</p>
                                 </div>
@@ -240,43 +240,43 @@ export default function HomeComponent() {
                             <div className="pricingComponentBenefits">
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>Extra large logo of business on our robot and on our t-shirt design!</p>
                                 </div>
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>Seperate primary sponsor banner at competition and outreach!</p>
                                 </div>
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>Special mention and shoutout as a major sponsor in any of our Media posts and Videos!</p>
                                 </div>
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>Appreciation plaque that can be displayed at your business!</p>
                                 </div>
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>Place on the homepage for your company logo and active link!</p>
                                 </div>
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>Team robot demonstration at place of business</p>
                                 </div>
                                 <div className="pricingComponentBenefit">
                                     <div>
-                                        <img src="benefitCheckmark.png" />
+                                        <img src="https://kaipereira.github.io/reybots/benefitCheckmark.png" />
                                     </div>
                                     <p>Photo with the Reybots team!</p>
                                 </div>
