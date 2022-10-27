@@ -15,41 +15,41 @@ export default function Nav() {
     return (
         <>
             <nav>
-                <Link href="/#home">
+                <Link href="/reybots/#home">
                     <div className="navGroup1">
                         <img src="/reybots/logo.svg" alt="reybots logo" />
                         <p>Reybots</p>
                     </div>
                 </Link>
                 <div className="navGroup2">
-                    <Link href="/#home">
+                    <Link href="/reybots/#home">
                         <div className="navElementContainer">
                             <p>Home</p>
                         </div>
                     </Link>
-                    <Link href="/#competitions">
+                    <Link href="/reybots/#competitions">
                         <div className="navElementContainer">
                             <p>Competitions</p>
                         </div>
                     </Link>
-                    <Link href="/#sponsors">
+                    <Link href="/reybots/#sponsors">
                         <div className="navElementContainer">
                             <p>Sponsors</p>
                         </div>
                     </Link>
-                    <Link href="/#about">
+                    <Link href="/reybots/#about">
                         <div className="navElementContainer">
                             <p>About</p>
                         </div>
                     </Link>
-                    <Link href="/get-started">
+                    <Link href="/reybots/get-started">
                         <div className="navElementContainer">
                             <p>Sponsor Us</p>
                         </div>
                     </Link>
                 </div>
                 <div className="navGroup2">
-                    <Link href="/#contact">
+                    <Link href="/reybots/#contact">
                         <div className="navElementContainer">
                             <p>Contact</p>
                         </div>
@@ -63,22 +63,22 @@ export default function Nav() {
             </nav>
             <div className={dropdownState ? "dropdown dropdownClosed" : "dropdown dropdownOpen"}>
                 <div className="dropdownElements">
-                    <Link href="/#home" onClick={() => changeDropdownStateFunction(!dropdownState)}>
+                    <Link href="/reybots/#home" onClick={() => changeDropdownStateFunction(!dropdownState)}>
                         <p className="dropdownElement">Home</p>
                     </Link>
-                    <Link href="/#competition" onClick={() => changeDropdownStateFunction(!dropdownState)}>
+                    <Link href="/reybots/#competition" onClick={() => changeDropdownStateFunction(!dropdownState)}>
                         <p className="dropdownElement">Competitions</p>
                     </Link>
-                    <Link href="/#sponsors" onClick={() => changeDropdownStateFunction(!dropdownState)}>
+                    <Link href="/reybots/#sponsors" onClick={() => changeDropdownStateFunction(!dropdownState)}>
                         <p className="dropdownElement">Sponsors</p>
                     </Link>
-                    <Link href="/#about" onClick={() => changeDropdownStateFunction(!dropdownState)}>
+                    <Link href="/reybots/#about" onClick={() => changeDropdownStateFunction(!dropdownState)}>
                         <p className="dropdownElement">About</p>
                     </Link>
-                    <Link href="/get-started" onClick={() => changeDropdownStateFunction(!dropdownState)}>
+                    <Link href="/reybots/get-started" onClick={() => changeDropdownStateFunction(!dropdownState)}>
                         <p className="dropdownElement">Sponsor Us</p>
                     </Link>
-                    <Link href="/#contact" onClick={() => changeDropdownStateFunction(!dropdownState)}>
+                    <Link href="/reybots/#contact" onClick={() => changeDropdownStateFunction(!dropdownState)}>
                         <p className="dropdownElement">Contact</p>
                     </Link>
                     <div className="dropdownSocials">
